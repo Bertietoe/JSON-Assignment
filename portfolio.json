@@ -1,0 +1,25 @@
+{
+  "portfolio": [
+    {
+      "title": "Portrait",
+      "description": "A charcoal sketch of the facets that make up the face, meant to discuss reflection and revelation of the self",
+      "image": "1320.jpg",
+      "likes": 245,
+      "accentColor": "#FF5733"
+    },
+    {
+      "title": "Geisha",
+      "description": "The sketch of a Geisha, inspired by Japan's culture of entertainment and Kyoto's vibrant Streets",
+      "image": "geisha.jpg",
+      "likes": 318,
+      "accentColor": "#28A745"
+    },
+    {
+      "title": "Crane",
+      "description": "A sketch of traditional Japanese cranes inspired by traditional woodblocks",
+      "image": "crane.jpg",
+      "likes": 412,
+      "accentColor": "#6C63FF"
+    }
+  ]
+}
